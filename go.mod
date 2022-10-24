@@ -25,7 +25,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/sirupsen/logrus v1.6.0
 	github.com/streadway/amqp v0.0.0-20200108173154-1c71cc93ed71
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.1
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	go.etcd.io/bbolt v1.3.5
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
